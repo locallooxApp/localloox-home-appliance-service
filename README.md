@@ -1,0 +1,34 @@
+# LocalLoox – Home Appliance Service Platform
+
+LocalLoox is a trusted home appliance service platform that helps users connect with reliable local professionals for fast and convenient repair services.
+
+## Services We Offer
+
+- AC Repair & Cleaning
+- Refrigerator Repair
+- Washing Machine Service
+- TV Installation & Repair
+- Home Appliance Maintenance
+
+## Why Choose LocalLoox?
+
+✔ Trusted Local Professionals  
+✔ Fast Service Response  
+✔ Easy Booking Experience  
+✔ Affordable Home Services  
+✔ Multiple Services in One Platform  
+
+## About
+
+LocalLoox focuses on making home appliance servicing easier, faster, and more accessible for users in Bhavnagar and nearby areas.
+
+## Contact Information
+
+📍 Our Office  
+105, Shyam Arcade, Nr. Bhangali Gate, Talaja Road, Bhavnagar - 364001
+
+📞 Get In Touch  
+7016307636 | 9099546868
+
+📲 Download the App  
+[Add https://play.google.com/store/apps/details?id=com.localloox&pcampaignid=web_shareYour Play Store Link Here]
